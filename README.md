@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaikh Abdul Rafay</h1>
-<h3 align="center">FAST'25 BS-AI</h3>
+<h3 align="center">Data Boi</h3>
 
 - 🌱 I’m currently learning **Machine Learning / Deep Learning and LLMS**
 
